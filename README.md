@@ -1,2 +1,2 @@
-# Apeperia
-site de divulgação para pequenas e grandes empresas
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
